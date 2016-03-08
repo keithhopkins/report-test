@@ -1,0 +1,39 @@
+.report {
+  font-family: "museo-sans-rounded", sans-serif;
+}
+
+.report img {
+  height: 200px;
+}
+
+.report header {
+  color: #80855C;
+  font-size: 1.3em;
+}
+
+.report header p:nth-child(3) {
+  color: gray;
+}
+
+.report hr {
+  border-top: 1px solid #8c8b8b;
+}
+
+.report section {
+  color: gray;
+}
+
+.report .chart {
+  max-height: 200px;
+}
+
+.report h1 {
+  color: #63A5DA;
+  font-size: 60px;
+  margin-bottom: 0px;
+}
+
+.report h3 {
+  color: #63A5DA;
+  margin-top: 0px;
+}
